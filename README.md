@@ -16,16 +16,6 @@ Personal repository of accepted LeetCode solutions solved by [kauxync](https://l
 
 ## Solutions
 
-### MySQL
-
-| # | Title | Difficulty | Solution |
-| :---: | :--- | :---: | :---: |
-| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [MySQL](./mysql/0175_combine_two_tables/solution.sql) |
-| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | [MySQL](./mysql/0176_second_highest_salary/solution.sql) |
-| 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [MySQL](./mysql/0177_nth_highest_salary/solution.sql) |
-| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | [MySQL](./mysql/0181_employees_earning_more_than_their_managers/solution.sql) |
-| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [MySQL](./mysql/0182_duplicate_emails/solution.sql) |
-
 ### C Programming
 
 | # | Title | Difficulty | Solution |
@@ -40,6 +30,16 @@ Personal repository of accepted LeetCode solutions solved by [kauxync](https://l
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [C](./c-programming/0125_valid_palindrome/solution.c) |
 | 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [C](./c-programming/0856_score_of_parentheses/solution.c) |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [C](./c-programming/0921_minimum_add_to_make_parentheses_valid/solution.c) |
+
+### MySQL
+
+| # | Title | Difficulty | Solution |
+| :---: | :--- | :---: | :---: |
+| 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [MySQL](./mysql/0175_combine_two_tables/solution.sql) |
+| 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Medium | [MySQL](./mysql/0176_second_highest_salary/solution.sql) |
+| 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [MySQL](./mysql/0177_nth_highest_salary/solution.sql) |
+| 0181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | [MySQL](./mysql/0181_employees_earning_more_than_their_managers/solution.sql) |
+| 0182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [MySQL](./mysql/0182_duplicate_emails/solution.sql) |
 
 ### PHP
 
